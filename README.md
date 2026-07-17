@@ -1,79 +1,156 @@
-# Hi there, I'm 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm **YOUR_NAME**
 
-## 💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Software+Developer;Linux+Enthusiast;Open+Source+Enjoyer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-I'm a **Software Developer** passionate about building reliable, efficient, and scalable software. I enjoy solving complex problems, learning new technologies, and continuously improving my development workflow.
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  </a>
 
-* 🔭 Working on software development projects
-* 🌱 Continuously learning new technologies and best practices
-* 🐧 Experienced with Linux systems and open-source tools
-* ⚡ Interested in system programming, automation, and developer productivity
-* 🤝 Open to collaborating on interesting open-source and software projects
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
+  </a>
+
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
+
+```text
+Software Developer
+Linux Power User
+Open Source Enthusiast
+Problem Solver
+```
+
+I'm a software developer who enjoys building clean, efficient, and reliable software. My preferred development environment is Linux, and I enjoy learning new technologies, improving workflows, and contributing to projects that solve real problems.
+
+* 🐧 Linux is my daily driver
+* 💻 Passionate about software engineering
+* 🚀 Always exploring new technologies
+* 🔧 Love automation and scripting
+* 🌱 Constantly learning
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-* C
-* C++
-* Python
-* JavaScript
-* Bash
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash,html,css" />
+</p>
 
-### Tools & Technologies
+### Frameworks & Tools
 
-* Linux
-* Git & GitHub
-* Docker
-* VS Code
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,cmake,nodejs" />
+</p>
 
 ### Operating Systems
 
-* Linux (daily driver)
-* Windows
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
 ---
 
-## 🐧 Linux
+# 🐧 Linux
 
-Linux is more than just my operating system—it's my preferred development environment. I enjoy working with the command line, shell scripting, system configuration, automation, and exploring open-source software.
+```bash
+$ neofetch
 
----
-
-## 🎮 Beyond Coding
-
-When I'm away from the keyboard, you'll probably find me:
-
-* 🎬 Watching movies across different genres
-* 🎯 Playing FPS games
-* 📚 Exploring new technologies and developer tools
-
----
-
-## 📈 GitHub Stats
-
-> Add your GitHub stats using services like **github-readme-stats** or **GitHub Readme Streak Stats**.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+OS: Linux
+Shell: bash
+Editor: VS Code
+Languages: C, C++, Python, JavaScript
+Interests: Software Development, Automation, Open Source
 ```
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Statistics
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Portfolio: https://YOUR_WEBSITE
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> *"Write clean code. Keep learning. Build things that matter."*
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+> Pin your best repositories on your GitHub profile and list them here.
+
+* 🚀 Project One — Short description
+* 🐧 Linux Tool — Short description
+* ⚡ Automation Script — Short description
+* 🌐 Web Application — Short description
+
+---
+
+# 🎮 Outside of Coding
+
+When I'm not writing code, you'll probably find me:
+
+* 🎬 Watching movies
+* 🎯 Playing FPS games
+* 🐧 Exploring Linux distributions and tools
+* 📚 Learning something new
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"First, solve the problem. Then, write the code."*
+
+</p>
+
 
