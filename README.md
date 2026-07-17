@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mondaycat2023">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
+  <a href="https://github.com/mondaycat2023?tab=followers">
+    <img src="https://img.shields.io/github/followers/mondaycat2023?style=for-the-badge&logo=github" />
   </a>
 
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/mondaycat2023?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 ---
