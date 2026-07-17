@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm **YOUR_NAME**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm **MAYUKH RAMESH**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Software+Developer;Linux+Enthusiast;Open+Source+Enjoyer;Always+Learning+New+Technologies" alt="Typing SVG" />
